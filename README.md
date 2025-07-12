@@ -38,6 +38,14 @@ Below are examples of the outcome pages:
 ![WhatsApp Image 2025-07-12 at 14 27 23_2091ae8e](https://github.com/user-attachments/assets/bf6382e8-9328-4d91-a0af-113246752849)
 ![WhatsApp Image 2025-07-12 at 14 27 45_00c6df90](https://github.com/user-attachments/assets/00040c49-adcb-49e6-b418-15ded19ace04)
 
+### 🔍Insights
+![WhatsApp Image 2025-07-12 at 15 27 53_753cd5f6](https://github.com/user-attachments/assets/4cbe3650-444a-41a3-9012-30d061083952)
+![WhatsApp Image 2025-07-12 at 15 29 16_9b3b4ae9](https://github.com/user-attachments/assets/0a3c3435-a55b-4517-8863-e1fb149471e5)
+![WhatsApp Image 2025-07-12 at 15 32 27_e8ddb93d](https://github.com/user-attachments/assets/cf9114ea-6a2b-409e-aa45-1202824b6825)
+![WhatsApp Image 2025-07-12 at 15 33 25_3ec9bad0](https://github.com/user-attachments/assets/abfb3f1e-069f-4dde-9a8e-2e1ce7acbdc6)
+![WhatsApp Image 2025-07-12 at 15 33 45_926e4a3f](https://github.com/user-attachments/assets/d798ba66-d995-40c3-b670-f395bd48e9ed)
+![WhatsApp Image 2025-07-12 at 15 34 12_101f84be](https://github.com/user-attachments/assets/06a1c407-8d97-44d3-8271-b87c33bc989d)
+![WhatsApp Image 2025-07-12 at 15 34 31_64b5765a](https://github.com/user-attachments/assets/036ec622-b5d6-4415-a43c-e24922afa730)
 
 ---
 
