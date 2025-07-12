@@ -99,7 +99,7 @@ Below are examples of the outcome pages:
 ### 🔍 Search Page
 ![WhatsApp Image 2025-07-12 at 16 14 18_921997a9](https://github.com/user-attachments/assets/f9652a6b-2d5c-4a82-b893-05530f5e3c5a)
 
-### Search Page With Working
+### ⚙️ Search Page With Working
 ![WhatsApp Image 2025-07-12 at 16 14 49_489fa785](https://github.com/user-attachments/assets/91fe316b-98bd-4be7-a375-dba2fd84f8e9)
 ![WhatsApp Image 2025-07-12 at 16 15 22_10cd28e9](https://github.com/user-attachments/assets/fff9004c-7334-4c3a-8334-51849bed997f)
 ![WhatsApp Image 2025-07-12 at 16 15 45_df23ed2b](https://github.com/user-attachments/assets/59655ea8-7487-48e6-9e01-04adc7fc9a20)
