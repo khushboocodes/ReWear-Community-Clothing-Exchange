@@ -12,23 +12,17 @@ discarding them.
 
 ## Team Deatils
 
-Team Leader Name
-Khushboo Khator
-Email
-khushboocodes@gmail.com
+-Team Leader Name : Khushboo Khator
+-Email: khushboocodes@gmail.com
 
 
-Team Member 1
-Name
-Anuj Sharma
-Email
-anujsharrmmaa@gamil.com
+-Team Member 1
+-Name: Anuj Sharma
+-Email: anujsharrmmaa@gamil.com
 
-Team Member 2
-Name
-Rohit Prajapati
-Email
-rrohit9111@gmail.com
+-Team Member 2
+-Name: Rohit Prajapati
+-Email: rrohit9111@gmail.com
 
 ## 🌟 Features
 
