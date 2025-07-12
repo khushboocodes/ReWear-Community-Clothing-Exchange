@@ -63,6 +63,8 @@ Below are examples of the outcome pages:
 
 ### Order Confirmation Page
 ![WhatsApp Image 2025-07-12 at 15 51 44_9b0d17c3](https://github.com/user-attachments/assets/16491c69-f60b-4587-8764-21d0792f8200)
+![WhatsApp Image 2025-07-12 at 15 52 00_6274500b](https://github.com/user-attachments/assets/22012311-4baf-43c1-b168-bf7333fc6ba6)
+![WhatsApp Image 2025-07-12 at 15 52 47_1ed10d7b](https://github.com/user-attachments/assets/a65a7fcd-1edd-4e41-8f16-e7cbb51111a3)
 
 ---
 
