@@ -28,6 +28,12 @@ ReWear is a web-based platform that encourages sustainable fashion by enabling u
 
 Below are examples of the outcome pages:
 
+### 🔐 Login Page
+![WhatsApp Image 2025-07-12 at 15 58 24_6da760a8](https://github.com/user-attachments/assets/dbef1e7c-9899-463e-9b5a-67e875ff00b2)
+![WhatsApp Image 2025-07-12 at 15 58 24_e41b27f3](https://github.com/user-attachments/assets/18fc7b5a-bbfc-4179-92a7-074cb0df6b15)
+
+---
+
 ### 🎯 Landing Page
 ![WhatsApp Image 2025-07-12 at 14 24 10_629d171f](https://github.com/user-attachments/assets/b3ae8dbc-a7ae-4d6a-b9d3-4b8be5719234)
 ![WhatsApp Image 2025-07-12 at 14 24 36_43e5e436](https://github.com/user-attachments/assets/14785f9e-76a2-4d11-8f79-acdc124207ee)
