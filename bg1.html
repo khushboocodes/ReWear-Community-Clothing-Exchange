@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fresh Styles, Ready to Be Loved | ReWear</title>
+  <link rel="stylesheet" href="b.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<style>@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Spartan', sans-serif;
+}
+
+/* Header */
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 60px;
+  background-color: #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+#header img.logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+#navbar li {
+  list-style: none;
+  position: relative;
+}
+
+#navbar li a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+  transition: 0.3s ease;
+}
+
+#navbar li a:hover,
+#navbar li a.active {
+  color: #954A1F;
+}
+
+#navbar li a.active::after,
+#navbar li a:hover::after {
+  content: "";
+  width: 30%;
+  height: 2px;
+  background-color: #954A1F;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+}
+
+/* Blog Section */
+.blog-detail-section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  color: #333;
+  line-height: 1.8;
+}
+
+.blog-detail-section h1 {
+  font-size: 42px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.blog-detail-section h2 {
+  font-size: 28px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #0077cc;
+}
+
+.blog-detail-section p,
+.blog-detail-section li {
+  font-size: 16px;
+  color: #465b52;
+  margin-bottom: 20px;
+}
+
+.blog-detail-section ul {
+  padding-left: 20px;
+}
+
+.blog-detail-section .blog-cover {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 25px 0;
+}
+
+.post-date {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+/* Link Styling */
+.blog-detail-section a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.blog-detail-section a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  background-color: #f1f1f1;
+  color: #666;
+  border-top: 1px solid #ddd;
+  margin-top: 60px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px 30px;
+  }
+
+  #navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    margin-top: 15px;
+  }
+
+  .blog-detail-section {
+    padding: 20px;
+  }
+
+  .blog-detail-section h1 {
+    font-size: 32px;
+  }
+
+  .blog-detail-section h2 {
+    font-size: 22px;
+  }
+}
+</style>
+<body>
+
+  <!-- Header -->
+  <section id="header">
+    <a href="#"><img src="image/logo.jpg" class="logo" alt="ReWear Logo"></a>
+    <div>
+      <ul id="navbar">
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="shop.html">Start Swapping</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="search.html"><i class="fa fa-search"></i></a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Blog Content -->
+  <section class="blog-detail-section">
+    <h1>Fresh Styles, Ready to Be Loved: Why Unused Clothes Deserve a Second Chance</h1>
+    <p class="post-date"><strong>Published:</strong> July 12, 2025</p>
+    <img src="img/b6.png" alt="Unused Fashion Reimagined" class="blog-cover" />
+
+    <p>
+      Have you ever opened your closet to find beautiful clothes you’ve never worn? Maybe they were impulse buys, gifts that didn’t fit quite right, or simply pieces you forgot you owned. You’re not alone—millions of garments sit untouched in wardrobes around the world.
+    </p>
+
+    <p>
+      At <strong>ReWear</strong>, we believe every item deserves the chance to shine. That’s why we make it easy to share these fresh styles with people who will truly appreciate them.
+    </p>
+
+    <h2>The Hidden Potential in Your Closet</h2>
+    <p>
+      Unused clothing isn’t waste—it’s opportunity. Each unworn dress, pair of jeans, or crisp shirt is a chance to:
+    </p>
+    <ul>
+      <li>Refresh someone’s style without creating new waste</li>
+      <li>Reduce demand for fast fashion production</li>
+      <li>Make the most of resources already spent on making that garment</li>
+    </ul>
+    <p>
+      When you clear out pieces you no longer wear, you’re not just decluttering—you’re giving them a meaningful new purpose.
+    </p>
+
+    <h2>Why Swap Instead of Toss?</h2>
+    <p>
+      Throwing away unworn clothes contributes to overflowing landfills and a growing environmental crisis. Swapping or sharing them:
+    </p>
+    <ul>
+      <li>Extends their lifespan</li>
+      <li>Supports circular fashion</li>
+      <li>Helps build a community that values sustainability over excess</li>
+    </ul>
+    <p>
+      It feels good to know your never-worn favorites can become someone else’s essentials.
+    </p>
+
+    <h2>Join a Community That Cares</h2>
+    <p>
+      ReWear connects you with people who are excited to discover quality pieces. Whether you’re looking for a new look or ready to pass along something you never wore, our platform makes it simple and rewarding.
+    </p>
+    <p>
+      Together, we can redefine what it means to shop, swap, and share.
+    </p>
+
+    <h2>Start Today</h2>
+    <p>
+      Your fresh styles are ready to be loved—by someone who will wear them proudly.
+    </p>
+    <p>
+      Join <strong>ReWear</strong> and help us make fashion more sustainable, one garment at a time.
+    </p>
+
+    <p style="margin-top: 30px;">
+      <a href="index.html">← Back to home</a>
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Exchange clothes. Embrace sustainability. ReWear your world.</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Swap. Share. Sustain: ReWear’s Impact on Fashion</title>
+  <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<style>@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Spartan', sans-serif;
+}
+
+/* Header */
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 60px;
+  background-color: #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+#header img.logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+#navbar li {
+  list-style: none;
+  position: relative;
+}
+
+#navbar li a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+  transition: 0.3s ease;
+}
+
+#navbar li a:hover,
+#navbar li a.active {
+  color: #954A1F;
+}
+
+#navbar li a.active::after,
+#navbar li a:hover::after {
+  content: "";
+  width: 30%;
+  height: 2px;
+  background-color: #954A1F;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+}
+
+/* Blog Section */
+.blog-detail-section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  color: #333;
+  line-height: 1.8;
+}
+
+.blog-detail-section h1 {
+  font-size: 42px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.blog-detail-section h2 {
+  font-size: 28px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #0077cc;
+}
+
+.blog-detail-section p,
+.blog-detail-section li {
+  font-size: 16px;
+  color: #465b52;
+  margin-bottom: 20px;
+}
+
+.blog-detail-section ul {
+  padding-left: 20px;
+}
+
+.blog-detail-section .blog-cover {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 25px 0;
+}
+
+.post-date {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+/* Link Styling */
+.blog-detail-section a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.blog-detail-section a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  background-color: #f1f1f1;
+  color: #666;
+  border-top: 1px solid #ddd;
+  margin-top: 60px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px 30px;
+  }
+
+  #navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    margin-top: 15px;
+  }
+
+  .blog-detail-section {
+    padding: 20px;
+  }
+
+  .blog-detail-section h1 {
+    font-size: 32px;
+  }
+
+  .blog-detail-section h2 {
+    font-size: 22px;
+  }
+}
+</style>
+<body>
+
+  <!-- Header -->
+  <section id="header">
+    <a href="index.html">
+      <img src="image/logo.jpg" class="logo" alt="ReWear Logo" />
+    </a>
+    <div>
+      <ul id="navbar">
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="shop.html">Start Swapping</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="search.html"><i class="fa fa-search"></i></a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Blog Content -->
+  <section class="blog-detail-section section-p1">
+    <h1>Swap. Share. Sustain: How ReWear is Changing the Way We Dress</h1>
+    <p class="post-date"><strong>Published:</strong> July 12, 2025</p>
+    <img src="img/b9.png" alt="Sustainable Fashion" class="blog-cover" />
+
+    <p>
+      In a world where fashion trends change faster than the seasons, our closets often end up overflowing with clothes we no longer wear. Each year, millions of tons of textiles are discarded, contributing to landfills and harming our environment. But what if there were a simple way to give your clothes new life—and refresh your style—without buying anything new?
+    </p>
+
+    <p><strong>ReWear makes this possible.</strong></p>
+
+    <p>
+      At ReWear, we believe that the most sustainable garment is the one that already exists. Our platform empowers you to swap unused clothing with others in your community, share your unique style, and collectively sustain the planet for generations to come.
+    </p>
+
+    <h2>Swap</h2>
+    <p>
+      Instead of letting quality pieces collect dust, ReWear makes it easy to trade them for something you’ll love wearing again. Whether you’re looking for a new favorite jacket or the perfect pair of jeans, swapping allows you to refresh your wardrobe without spending money or creating waste.
+    </p>
+
+    <h2>Share</h2>
+    <p>
+      ReWear isn’t just a marketplace—it’s a community. Every garment carries a story, and when you share what you no longer need, you’re passing that story along. From vintage finds to barely-worn modern essentials, you’ll discover clothes that reflect real people and real lives.
+    </p>
+
+    <h2>Sustain</h2>
+    <p>
+      By reusing clothing, you help reduce demand for new manufacturing, saving water, energy, and resources. Each swap is a small step toward a healthier planet and a more responsible way to dress. Together, we can make sustainability the new standard in fashion.
+    </p>
+
+    <h2>Join the Movement</h2>
+    <p>
+      Ready to clean out your closet and embrace circular fashion? Sign up with ReWear today. Start swapping, start sharing, and start sustaining—one garment at a time.
+    </p>
+
+    <p style="margin-top: 30px;">
+      <a href="index.html">← Back to home</a>
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Exchange clothes. Embrace sustainability. ReWear your world..</p>
+  </footer>
+
+</body>
+</html>
