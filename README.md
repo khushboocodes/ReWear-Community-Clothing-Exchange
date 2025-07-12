@@ -84,12 +84,32 @@ Below are examples of the outcome pages:
 
 ### 🧑‍💻 About Page
 ![WhatsApp Image 2025-07-12 at 16 02 17_b9811382](https://github.com/user-attachments/assets/60455603-a704-4f90-b3e6-b0f1441382e8)
+![WhatsApp Image 2025-07-12 at 16 12 23_25378432](https://github.com/user-attachments/assets/ff69a258-3190-4ae5-94d5-75f2bd29e1ac)
+![WhatsApp Image 2025-07-12 at 16 04 53_275dc776](https://github.com/user-attachments/assets/7d805d98-9d87-4956-8c56-ee45950eb275)
 
+---
 
+### ☎️ Contact Page
+![WhatsApp Image 2025-07-12 at 16 07 37_281057da](https://github.com/user-attachments/assets/b83b4215-69f9-45af-8348-9e3754e429be)
+![WhatsApp Image 2025-07-12 at 16 13 03_0778208e](https://github.com/user-attachments/assets/b262a911-ea9e-4b83-820d-1960f579f8e1)
+![WhatsApp Image 2025-07-12 at 16 13 34_0afbf9af](https://github.com/user-attachments/assets/53efb4eb-fd8a-4b55-8916-ba1a4a915259)
 
+---
 
+### 🔍 Search Page
+![WhatsApp Image 2025-07-12 at 16 14 18_921997a9](https://github.com/user-attachments/assets/f9652a6b-2d5c-4a82-b893-05530f5e3c5a)
 
+### Search Page With Working
+![WhatsApp Image 2025-07-12 at 16 14 49_489fa785](https://github.com/user-attachments/assets/91fe316b-98bd-4be7-a375-dba2fd84f8e9)
+![WhatsApp Image 2025-07-12 at 16 15 22_10cd28e9](https://github.com/user-attachments/assets/fff9004c-7334-4c3a-8334-51849bed997f)
+![WhatsApp Image 2025-07-12 at 16 15 45_df23ed2b](https://github.com/user-attachments/assets/59655ea8-7487-48e6-9e01-04adc7fc9a20)
 
+---
+
+### 🧑‍💼 User Dashboard Page
+![WhatsApp Image 2025-07-12 at 16 17 37_b7057b88](https://github.com/user-attachments/assets/41a213b3-ec6b-4b6d-b322-3f90e895135b)
+
+---
 
 ## 🛠️ Tech Stack
 
