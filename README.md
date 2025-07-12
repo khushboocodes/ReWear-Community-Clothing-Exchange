@@ -38,7 +38,7 @@ Below are examples of the outcome pages:
 ![WhatsApp Image 2025-07-12 at 14 27 23_2091ae8e](https://github.com/user-attachments/assets/bf6382e8-9328-4d91-a0af-113246752849)
 ![WhatsApp Image 2025-07-12 at 14 27 45_00c6df90](https://github.com/user-attachments/assets/00040c49-adcb-49e6-b418-15ded19ace04)
 
-### 🔍Insights
+### 🔍 Insights
 ![WhatsApp Image 2025-07-12 at 15 27 53_753cd5f6](https://github.com/user-attachments/assets/4cbe3650-444a-41a3-9012-30d061083952)
 ![WhatsApp Image 2025-07-12 at 15 29 16_9b3b4ae9](https://github.com/user-attachments/assets/0a3c3435-a55b-4517-8863-e1fb149471e5)
 ![WhatsApp Image 2025-07-12 at 15 32 27_e8ddb93d](https://github.com/user-attachments/assets/cf9114ea-6a2b-409e-aa45-1202824b6825)
@@ -46,6 +46,15 @@ Below are examples of the outcome pages:
 ![WhatsApp Image 2025-07-12 at 15 33 45_926e4a3f](https://github.com/user-attachments/assets/d798ba66-d995-40c3-b670-f395bd48e9ed)
 ![WhatsApp Image 2025-07-12 at 15 34 12_101f84be](https://github.com/user-attachments/assets/06a1c407-8d97-44d3-8271-b87c33bc989d)
 ![WhatsApp Image 2025-07-12 at 15 34 31_64b5765a](https://github.com/user-attachments/assets/036ec622-b5d6-4415-a43c-e24922afa730)
+
+---
+
+### 👕 Start Swapping Page
+![WhatsApp Image 2025-07-12 at 15 35 05_c7a9a36f](https://github.com/user-attachments/assets/e2393d54-eedc-4d88-8e95-adfcb9a9352f)
+![WhatsApp Image 2025-07-12 at 15 36 06_09a61a89](https://github.com/user-attachments/assets/0777fdf8-3633-4d6b-84ed-f35a80bd48a9)
+![WhatsApp Image 2025-07-12 at 15 36 34_38e98a86](https://github.com/user-attachments/assets/ca44f006-e0c7-4e08-8f17-eb9471983cc7)
+![WhatsApp Image 2025-07-12 at 15 36 54_b473622e](https://github.com/user-attachments/assets/69a44e07-b797-4677-8cce-d4b591e461cf)
+![WhatsApp Image 2025-07-12 at 15 38 01_32892e43](https://github.com/user-attachments/assets/5f277381-ff1c-45dc-a187-afc027d72858)
 
 ---
 
