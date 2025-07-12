@@ -1,0 +1,163 @@
+/* === Global Reset & Font === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fefefe;
+  color: #333;
+  line-height: 1.7;
+  padding: 0;
+}
+
+/* === Header === */
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 10%;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #444;
+}
+
+.logo-container img {
+  width: 26px;
+  height: 26px;
+}
+
+/* === Navigation === */
+.nav-links {
+  display: flex;
+  gap: 25px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #555;
+  transition: 0.3s;
+  position: relative;
+  padding: 4px 6px;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+  color: #da627d;
+}
+
+.nav-links a.active::after,
+.nav-links a:hover::after {
+  content: "";
+  height: 2px;
+  width: 30%;
+  background-color: #da627d;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+}
+
+/* === Blog Detail Section === */
+.blog-detail-section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.blog-detail-section h1 {
+  font-size: 2.5rem;
+  color: #1a1a1a;
+  margin-bottom: 10px;
+}
+
+.post-date {
+  color: #777;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+}
+
+.blog-cover {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* === Content Styling === */
+.blog-detail-section h2 {
+  font-size: 1.5rem;
+  color: #2e2e2e;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.blog-detail-section p {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 18px;
+}
+
+.blog-detail-section ul {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.blog-detail-section ul li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #da627d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* === Footer === */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  background-color: #f3f3f3;
+  color: #666;
+  border-top: 1px solid #ddd;
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  .main-header {
+    flex-direction: column;
+    gap: 10px;
+    padding: 16px 20px;
+  }
+
+  .nav-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .blog-detail-section h1 {
+    font-size: 2rem;
+  }
+
+  .blog-detail-section h2 {
+    font-size: 1.3rem;
+  }
+}
