@@ -3,6 +3,32 @@
 ReWear is a web-based platform that encourages sustainable fashion by enabling users to exchange their unused wardrobe items for valuable points or direct swaps. Instead of letting clothes sit idle, users can discover fresh styles and reduce textile waste.
 
 ---
+## Problem Statement
+
+Develop ReWear, a web-based platform that enables users to exchange unused clothing
+through direct swaps or a point-based redemption system. The goal is to promote sustainable
+fashion and reduce textile waste by encouraging users to reuse wearable garments instead of
+discarding them.
+
+## Team Deatils
+
+Team Leader Name
+Khushboo Khator
+Email
+khushboocodes@gmail.com
+
+
+Team Member 1
+Name
+Anuj Sharma
+Email
+anujsharrmmaa@gamil.com
+
+Team Member 2
+Name
+Rohit Prajapati
+Email
+rrohit9111@gmail.com
 
 ## 🌟 Features
 
