@@ -6,120 +6,150 @@ ReWear is a web-based platform that encourages sustainable fashion by enabling u
 
 ## 🌟 Features
 
-✅ **Swap System** – Turn unused clothes into swap points and redeem them for new items.
-
-✅ **Product Listings** – Display featured products and new arrivals in a modern grid layout.
-
-✅ **Sustainable Fashion Blog** – Educational banners and articles promoting conscious consumerism.
-
-✅ **Responsive Design** – Fully responsive across desktop.
-
-✅ **User Dashboard** – Access user account, wishlist, and track orders.
-
-✅ **Search Functionality** – Easily search for products.
-
-✅ **Social Media Integration** – Connect with the community on popular platforms.
-
-✅ **Clean UI** – Simple navigation with clear calls-to-action (e.g., *Swap*, *Explore More*, *Read*).
+✅ **Swap System** – Turn unused clothes into swap points and redeem them for new items.  
+✅ **Product Listings** – Display featured products and new arrivals in a modern grid layout.  
+✅ **Sustainable Fashion Blog** – Educational banners and articles promoting conscious consumerism.  
+✅ **Responsive Design** – Fully responsive across desktop.  
+✅ **User Dashboard** – Access user account, wishlist, and track orders.  
+✅ **Search Functionality** – Easily search for products, sizes, locations, and tags.  
+✅ **Secure Login System** – User authentication with email and password.  
+✅ **Social Media Integration** – Connect with the community on popular platforms.  
+✅ **Clean UI** – Simple navigation with clear calls-to-action (*Swap*, *Explore More*, *Read*).  
+✅ **Payment Support** – Users can donate or purchase points securely through a payment gateway.  
+✅ **Database Integration (SQLite)** – `app.py` uses SQLAlchemy + SQLite to store user data, product listings, swap records, etc.
 
 ---
 
+## ⚙️ Functional Pages
+
+- 🔐 **Login Page** – Secure sign in to user account  
+- 🎯 **Landing Page** – Hero banners, featured listings  
+- 👕 **Start Swapping** – Swap clothes with others  
+- 📊 **Insights Page** – View swap stats and eco impact  
+- 📝 **Order Confirmation Page** – View completed swaps or purchases  
+- 📰 **Blog Page** – Read articles on sustainable fashion  
+- 🧑‍💻 **About Page** – Learn about ReWear's mission  
+- ☎️ **Contact Page** – Reach out or submit feedback  
+- 🔍 **Search Page** – Find items via filters and tags  
+- 🧑‍💼 **User Dashboard** – Manage listings, profile, orders
+
+---
 ## 📸 Screenshots
 
-Below are examples of the outcome pages:
-
-### 🔐 Login Page
-![WhatsApp Image 2025-07-12 at 15 58 24_6da760a8](https://github.com/user-attachments/assets/dbef1e7c-9899-463e-9b5a-67e875ff00b2)
-![WhatsApp Image 2025-07-12 at 15 58 24_e41b27f3](https://github.com/user-attachments/assets/18fc7b5a-bbfc-4179-92a7-074cb0df6b15)
+### 🔐 Login Page  
+![Login1](https://github.com/user-attachments/assets/dbef1e7c-9899-463e-9b5a-67e875ff00b2)  
+![Login2](https://github.com/user-attachments/assets/18fc7b5a-bbfc-4179-92a7-074cb0df6b15)
 
 ---
 
-### 🎯 Landing Page
-![WhatsApp Image 2025-07-12 at 14 24 10_629d171f](https://github.com/user-attachments/assets/b3ae8dbc-a7ae-4d6a-b9d3-4b8be5719234)
-![WhatsApp Image 2025-07-12 at 14 24 36_43e5e436](https://github.com/user-attachments/assets/14785f9e-76a2-4d11-8f79-acdc124207ee)
-![WhatsApp Image 2025-07-12 at 14 25 28_b81a744b](https://github.com/user-attachments/assets/9ea91d5c-2d1e-4564-b9fe-a8c1a56f2d80)
-![WhatsApp Image 2025-07-12 at 14 25 30_dd493155](https://github.com/user-attachments/assets/a57a9d1b-f43f-4a0f-8363-4018ebde1218)
-![WhatsApp Image 2025-07-12 at 14 26 25_8823da68](https://github.com/user-attachments/assets/48a34f6b-3deb-4ec3-8531-ae4a22fa2c66)
-![WhatsApp Image 2025-07-12 at 14 27 02_02a55d19](https://github.com/user-attachments/assets/1aa26edc-0d99-4c54-a32f-a4a8216c2c1a)
-![WhatsApp Image 2025-07-12 at 14 27 23_2091ae8e](https://github.com/user-attachments/assets/bf6382e8-9328-4d91-a0af-113246752849)
-![WhatsApp Image 2025-07-12 at 14 27 45_00c6df90](https://github.com/user-attachments/assets/00040c49-adcb-49e6-b418-15ded19ace04)
-
-### 📊 Insights
-![WhatsApp Image 2025-07-12 at 15 27 53_753cd5f6](https://github.com/user-attachments/assets/4cbe3650-444a-41a3-9012-30d061083952)
-![WhatsApp Image 2025-07-12 at 15 29 16_9b3b4ae9](https://github.com/user-attachments/assets/0a3c3435-a55b-4517-8863-e1fb149471e5)
-![WhatsApp Image 2025-07-12 at 15 32 27_e8ddb93d](https://github.com/user-attachments/assets/cf9114ea-6a2b-409e-aa45-1202824b6825)
-![WhatsApp Image 2025-07-12 at 15 33 25_3ec9bad0](https://github.com/user-attachments/assets/abfb3f1e-069f-4dde-9a8e-2e1ce7acbdc6)
-![WhatsApp Image 2025-07-12 at 15 33 45_926e4a3f](https://github.com/user-attachments/assets/d798ba66-d995-40c3-b670-f395bd48e9ed)
-![WhatsApp Image 2025-07-12 at 15 34 12_101f84be](https://github.com/user-attachments/assets/06a1c407-8d97-44d3-8271-b87c33bc989d)
-![WhatsApp Image 2025-07-12 at 15 34 31_64b5765a](https://github.com/user-attachments/assets/036ec622-b5d6-4415-a43c-e24922afa730)
+### 🎯 Landing Page  
+![Landing1](https://github.com/user-attachments/assets/b3ae8dbc-a7ae-4d6a-b9d3-4b8be5719234)  
+![Landing2](https://github.com/user-attachments/assets/14785f9e-76a2-4d11-8f79-acdc124207ee)  
+![Landing3](https://github.com/user-attachments/assets/9ea91d5c-2d1e-4564-b9fe-a8c1a56f2d80)  
+![Landing4](https://github.com/user-attachments/assets/a57a9d1b-f43f-4a0f-8363-4018ebde1218)  
+![Landing5](https://github.com/user-attachments/assets/48a34f6b-3deb-4ec3-8531-ae4a22fa2c66)  
+![Landing6](https://github.com/user-attachments/assets/1aa26edc-0d99-4c54-a32f-a4a8216c2c1a)  
+![Landing7](https://github.com/user-attachments/assets/bf6382e8-9328-4d91-a0af-113246752849)  
+![Landing8](https://github.com/user-attachments/assets/00040c49-adcb-49e6-b418-15ded19ace04)
 
 ---
 
-### 👕 Start Swapping Page
-![WhatsApp Image 2025-07-12 at 15 35 05_c7a9a36f](https://github.com/user-attachments/assets/e2393d54-eedc-4d88-8e95-adfcb9a9352f)
-![WhatsApp Image 2025-07-12 at 15 36 06_09a61a89](https://github.com/user-attachments/assets/0777fdf8-3633-4d6b-84ed-f35a80bd48a9)
-![WhatsApp Image 2025-07-12 at 15 36 34_38e98a86](https://github.com/user-attachments/assets/ca44f006-e0c7-4e08-8f17-eb9471983cc7)
-![WhatsApp Image 2025-07-12 at 15 36 54_b473622e](https://github.com/user-attachments/assets/69a44e07-b797-4677-8cce-d4b591e461cf)
-![WhatsApp Image 2025-07-12 at 15 38 01_32892e43](https://github.com/user-attachments/assets/5f277381-ff1c-45dc-a187-afc027d72858)
-
-### 📊 Insights
-![WhatsApp Image 2025-07-12 at 15 46 59_f029ddc1](https://github.com/user-attachments/assets/ef011ea7-b990-45f4-a934-4fcef5bb5f34)
-![WhatsApp Image 2025-07-12 at 15 47 41_1c2d4b5e](https://github.com/user-attachments/assets/c7b53a4c-c607-4f11-9590-a27a72505201)
-![WhatsApp Image 2025-07-12 at 15 49 46_78a0f785](https://github.com/user-attachments/assets/7358950b-fa06-4ec3-a21a-1ae45adf2479)
-
-### 📝 Order Confirmation Page
-![WhatsApp Image 2025-07-12 at 15 51 44_9b0d17c3](https://github.com/user-attachments/assets/16491c69-f60b-4587-8764-21d0792f8200)
-![WhatsApp Image 2025-07-12 at 15 52 00_6274500b](https://github.com/user-attachments/assets/22012311-4baf-43c1-b168-bf7333fc6ba6)
-![WhatsApp Image 2025-07-12 at 15 52 47_1ed10d7b](https://github.com/user-attachments/assets/a65a7fcd-1edd-4e41-8f16-e7cbb51111a3)
+### 📊 Insights Page  
+![Insights1](https://github.com/user-attachments/assets/4cbe3650-444a-41a3-9012-30d061083952)  
+![Insights2](https://github.com/user-attachments/assets/0a3c3435-a55b-4517-8863-e1fb149471e5)  
+![Insights3](https://github.com/user-attachments/assets/cf9114ea-6a2b-409e-aa45-1202824b6825)  
+![Insights4](https://github.com/user-attachments/assets/abfb3f1e-069f-4dde-9a8e-2e1ce7acbdc6)  
+![Insights5](https://github.com/user-attachments/assets/d798ba66-d995-40c3-b670-f395bd48e9ed)  
+![Insights6](https://github.com/user-attachments/assets/06a1c407-8d97-44d3-8271-b87c33bc989d)  
+![Insights7](https://github.com/user-attachments/assets/036ec622-b5d6-4415-a43c-e24922afa730)
 
 ---
 
-###  📰 Blog Page
-![WhatsApp Image 2025-07-12 at 15 53 23_3470cc19](https://github.com/user-attachments/assets/c5b3ce1a-60ec-42de-8281-037a2b99b012)
-![WhatsApp Image 2025-07-12 at 15 53 43_20c90f25](https://github.com/user-attachments/assets/9adc67d7-e380-472c-89e6-7d654557df81)
-![WhatsApp Image 2025-07-12 at 15 54 11_c65726aa](https://github.com/user-attachments/assets/bfa46279-4757-4bc4-8612-87b537b28ad7)
-![WhatsApp Image 2025-07-12 at 15 54 31_e6671d7e](https://github.com/user-attachments/assets/ce91339e-8287-42e2-8b22-6d83d806f2cf)
+### 👕 Start Swapping Page  
+![Swap1](https://github.com/user-attachments/assets/e2393d54-eedc-4d88-8e95-adfcb9a9352f)  
+![Swap2](https://github.com/user-attachments/assets/0777fdf8-3633-4d6b-84ed-f35a80bd48a9)  
+![Swap3](https://github.com/user-attachments/assets/ca44f006-e0c7-4e08-8f17-eb9471983cc7)  
+![Swap4](https://github.com/user-attachments/assets/69a44e07-b797-4677-8cce-d4b591e461cf)  
+![Swap5](https://github.com/user-attachments/assets/5f277381-ff1c-45dc-a187-afc027d72858)
 
 ---
 
-### 🧑‍💻 About Page
-![WhatsApp Image 2025-07-12 at 16 02 17_b9811382](https://github.com/user-attachments/assets/60455603-a704-4f90-b3e6-b0f1441382e8)
-![WhatsApp Image 2025-07-12 at 16 12 23_25378432](https://github.com/user-attachments/assets/ff69a258-3190-4ae5-94d5-75f2bd29e1ac)
-![WhatsApp Image 2025-07-12 at 16 04 53_275dc776](https://github.com/user-attachments/assets/7d805d98-9d87-4956-8c56-ee45950eb275)
+### 📝 Order Confirmation Page  
+![Order1](https://github.com/user-attachments/assets/16491c69-f60b-4587-8764-21d0792f8200)  
+![Order2](https://github.com/user-attachments/assets/22012311-4baf-43c1-b168-bf7333fc6ba6)  
+![Order3](https://github.com/user-attachments/assets/a65a7fcd-1edd-4e41-8f16-e7cbb51111a3)
 
 ---
 
-### ☎️ Contact Page
-![WhatsApp Image 2025-07-12 at 16 07 37_281057da](https://github.com/user-attachments/assets/b83b4215-69f9-45af-8348-9e3754e429be)
-![WhatsApp Image 2025-07-12 at 16 13 03_0778208e](https://github.com/user-attachments/assets/b262a911-ea9e-4b83-820d-1960f579f8e1)
-![WhatsApp Image 2025-07-12 at 16 13 34_0afbf9af](https://github.com/user-attachments/assets/53efb4eb-fd8a-4b55-8916-ba1a4a915259)
+### 📰 Blog Page  
+![Blog1](https://github.com/user-attachments/assets/c5b3ce1a-60ec-42de-8281-037a2b99b012)  
+![Blog2](https://github.com/user-attachments/assets/9adc67d7-e380-472c-89e6-7d654557df81)  
+![Blog3](https://github.com/user-attachments/assets/bfa46279-4757-4bc4-8612-87b537b28ad7)  
+![Blog4](https://github.com/user-attachments/assets/ce91339e-8287-42e2-8b22-6d83d806f2cf)
 
 ---
 
-### 🔍 Search Page
-![WhatsApp Image 2025-07-12 at 16 14 18_921997a9](https://github.com/user-attachments/assets/f9652a6b-2d5c-4a82-b893-05530f5e3c5a)
-
-### ⚙️ Search Page With Working
-![WhatsApp Image 2025-07-12 at 16 14 49_489fa785](https://github.com/user-attachments/assets/91fe316b-98bd-4be7-a375-dba2fd84f8e9)
-![WhatsApp Image 2025-07-12 at 16 15 22_10cd28e9](https://github.com/user-attachments/assets/fff9004c-7334-4c3a-8334-51849bed997f)
-![WhatsApp Image 2025-07-12 at 16 15 45_df23ed2b](https://github.com/user-attachments/assets/59655ea8-7487-48e6-9e01-04adc7fc9a20)
+### 🧑‍💻 About Page  
+![About1](https://github.com/user-attachments/assets/60455603-a704-4f90-b3e6-b0f1441382e8)  
+![About2](https://github.com/user-attachments/assets/ff69a258-3190-4ae5-94d5-75f2bd29e1ac)  
+![About3](https://github.com/user-attachments/assets/7d805d98-9d87-4956-8c56-ee45950eb275)
 
 ---
 
-### 🧑‍💼 User Dashboard Page
-![WhatsApp Image 2025-07-12 at 16 17 37_b7057b88](https://github.com/user-attachments/assets/41a213b3-ec6b-4b6d-b322-3f90e895135b)
+### ☎️ Contact Page  
+![Contact1](https://github.com/user-attachments/assets/b83b4215-69f9-45af-8348-9e3754e429be)  
+![Contact2](https://github.com/user-attachments/assets/b262a911-ea9e-4b83-820d-1960f579f8e1)  
+![Contact3](https://github.com/user-attachments/assets/53efb4eb-fd8a-4b55-8916-ba1a4a915259)
 
 ---
 
+### 🔍 Search Page  
+![Search1](https://github.com/user-attachments/assets/f9652a6b-2d5c-4a82-b893-05530f5e3c5a)
+
+---
+
+### ⚙️ Search Page – Working  
+![SearchWorking1](https://github.com/user-attachments/assets/91fe316b-98bd-4be7-a375-dba2fd84f8e9)  
+![SearchWorking2](https://github.com/user-attachments/assets/fff9004c-7334-4c3a-8334-51849bed997f)  
+![SearchWorking3](https://github.com/user-attachments/assets/59655ea8-7487-48e6-9e01-04adc7fc9a20)
+
+---
+
+### 🧑‍💼 User Dashboard  
+![Dashboard](https://github.com/user-attachments/assets/41a213b3-ec6b-4b6d-b322-3f90e895135b)
+
+---
 ## 🛠️ Tech Stack
 
-- **HTML5** – Semantic markup
-- **CSS3** – Custom styling and layout
-- **Font Awesome** – Icons for UI elements
-- **JavaScript** – Interactive components
+- **HTML5** – Semantic markup  
+- **CSS3** – Custom styling and layout  
+- **JavaScript** – Interactive components  
+- **Font Awesome** – Icons for UI elements  
+- **Python Flask (app.py)** – Backend logic and routing  
+- **SQLite3 with SQLAlchemy** – Storing users, items, orders, swaps, etc.
 
 ---
+
 
 ## 📂 Project Structure
 
-├── index.html # Landing Page
+├── app.py # Flask backend logic (user auth, DB, routing)
+├── /templates # All HTML templates (login, dashboard, swap, etc.)
+│ ├── index.html
+│ ├── login.html
+│ ├── dashboard.html
+│ ├── swap.html
+│ ├── blog.html
+│ ├── about.html
+│ ├── contact.html
+│ └── search.html
+├── /static
+│ ├── /css
+│ ├── /js
+│ └── /images
+├── /database
+│ └── rewear.db # SQLite database file
+├── /models
+│ └── models.py # SQLAlchemy models for users, items, swaps
+├── requirements.txt # Python dependencies
+└── README.md
