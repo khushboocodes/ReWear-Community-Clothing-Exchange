@@ -56,6 +56,14 @@ Below are examples of the outcome pages:
 ![WhatsApp Image 2025-07-12 at 15 36 54_b473622e](https://github.com/user-attachments/assets/69a44e07-b797-4677-8cce-d4b591e461cf)
 ![WhatsApp Image 2025-07-12 at 15 38 01_32892e43](https://github.com/user-attachments/assets/5f277381-ff1c-45dc-a187-afc027d72858)
 
+### 🔍 Insights
+![WhatsApp Image 2025-07-12 at 15 46 59_f029ddc1](https://github.com/user-attachments/assets/ef011ea7-b990-45f4-a934-4fcef5bb5f34)
+![WhatsApp Image 2025-07-12 at 15 47 41_1c2d4b5e](https://github.com/user-attachments/assets/c7b53a4c-c607-4f11-9590-a27a72505201)
+![WhatsApp Image 2025-07-12 at 15 49 46_78a0f785](https://github.com/user-attachments/assets/7358950b-fa06-4ec3-a21a-1ae45adf2479)
+
+### Order Confirmation Page
+![WhatsApp Image 2025-07-12 at 15 51 44_9b0d17c3](https://github.com/user-attachments/assets/16491c69-f60b-4587-8764-21d0792f8200)
+
 ---
 
 ## 🛠️ Tech Stack
